@@ -26,6 +26,8 @@ public class HandlingFrames {
 	    FileUtils.copyFile(src, new File("Screenshot\\screenshot1.png"));
 		
 	    System.out.println("Screenshot captured and saved as screenshot.png");
+		System.out.println("checking git hub pull");
+	
 	    
 	    driver.quit();
 		
